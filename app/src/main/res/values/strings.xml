@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+
+    <!--timer-->
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+
+    <!--calendar-->
+    <string name="addEvent">Add Event</string>
+
+    <!--video-->
+    <string name="video">Capture Video</string>
+
+    <!--contact-->
+    <string name="viewContact">Select Contact</string>
+
+    <!--web search-->
+    <string name="search_et">Text Anything</string>
+    <string name="search_btn">Search</string>
+
+</resources>
